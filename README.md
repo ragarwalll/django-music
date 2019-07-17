@@ -1,2 +1,2 @@
 # django-music
-A simple album, Songs details using Django
+A simple Albums, Songs details using Django
